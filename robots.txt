@@ -1,1 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sahibinden-seo-tr-en.vercel.app/sitemap.xml
 
